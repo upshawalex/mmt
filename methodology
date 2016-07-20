@@ -1,0 +1,26 @@
+Development Methodologies
+--------------------------------
+- Source control must be used. This will be done through git and github.
+- The github issue tracker will be used to document all currently desired features and known bugs.
+- All outstanding bugs should be fixed before new code is written.
+- The issue tracker is to be groomed at the beginning of each development iteration.
+- There should be unit tests for everything, and they should always be written before the code they test.
+- An automated build process should be implemented. It should be possible to complete an entire build with a single command.
+- Manual black box testing should be performed after each development iteration to confirm functionality.
+- Thorough utomatic acceptance testing is to be developed before the project is considered done as a tempering process. There should be some reluctance to develop automated acceptance testing early on to avoid developing a fragile test problem or allowing the acceptance tests to influence the overall direction of development.
+- Continuous integration should be used. Update this entry once a particular solution has been decided upon.
+- Development should be iterative on a weekly basis.
+- A personal niko-niko calendar is to be kept.
+- Reflect upon the state of the project, progress made this week, and this methodology on a weekly basis; consider revising this methodology when appropriate. Reflection should include the three questions.
+- Documentation of everything implemented and a specification should be produced and kept current.
+- Usability testing should be periodically conducted for UI elements to whatever extent it is feasible.
+--------------------------------
+
+Design Principles
+--------------------------------
+- CRC cards, whether virtual or physical, should be used in designing classes.
+- Class design should be object-oriented, and generally adhere to the SOLID design principles.
+- If the project develops multiple packages, there must be no cyclic dependincies among them.
+- If the project develops multiple packages, their organization should adhere to the common closure and common reuse principles.
+- At the end of each development iteration, the overall state of the project should be considered with respect to the rules of simplicity; refactoring and other such revisions should be considered and implemented if warranted.
+--------------------------------
