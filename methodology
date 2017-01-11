@@ -8,7 +8,7 @@ Development Methodologies
 - An automated build process should be implemented. It should be possible to complete an entire build with a single command.
 - Manual black box testing should be performed after each development iteration to confirm functionality.
 - Thorough automatic acceptance testing is to be developed before the project is considered done as a tempering process. There should be some reluctance to develop automated acceptance testing early on to avoid developing a fragile test problem or allowing the acceptance tests to influence the overall direction of development.
-- Continuous integration should be used. Update this entry once a particular solution has been decided upon.
+- Continuous integration should be used. I have decided on using Travis CI for the time being.
 - Development should be iterative on a weekly basis.
 - A personal niko-niko calendar is to be kept.
 - Reflect upon the state of the project, progress made this week, and this methodology on a weekly basis; consider revising this methodology when appropriate. Reflection should include the three questions.
