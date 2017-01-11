@@ -7,7 +7,7 @@ Development Methodologies
 - There should be unit tests for everything, and they should always be written before the code they test.
 - An automated build process should be implemented. It should be possible to complete an entire build with a single command.
 - Manual black box testing should be performed after each development iteration to confirm functionality.
-- Thorough utomatic acceptance testing is to be developed before the project is considered done as a tempering process. There should be some reluctance to develop automated acceptance testing early on to avoid developing a fragile test problem or allowing the acceptance tests to influence the overall direction of development.
+- Thorough automatic acceptance testing is to be developed before the project is considered done as a tempering process. There should be some reluctance to develop automated acceptance testing early on to avoid developing a fragile test problem or allowing the acceptance tests to influence the overall direction of development.
 - Continuous integration should be used. Update this entry once a particular solution has been decided upon.
 - Development should be iterative on a weekly basis.
 - A personal niko-niko calendar is to be kept.
