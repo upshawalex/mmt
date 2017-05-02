@@ -5,4 +5,4 @@ I intend to implement this particular project in Java to ensure portability, bec
 
 I intend for this project to be free software under the GNU GPL v3.0.
 
-Currently, this project is an unfinished project. In fact, I would go so far to describe it as an unstarted project at the moment, although I very much hope to change that in the coming weeks.
+Currently, this project is an unfinished project. In fact, I would go so far to describe it as an unstarted project at the moment, although I do hope to change that one of these days.
